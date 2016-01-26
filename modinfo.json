@@ -1,0 +1,18 @@
+{
+  "context": "client",
+  "identifier": "com.pa.kiwi.battleship_fix",
+  "display_name": "PA Bug Fix For Invisible Battleship (Leviathan)",
+  "description": "Fixes the infamous invisibility bug for a rare select users.",
+  "author": "KillerKiwiJuice",
+  "version": "1",
+  "build": "Current",
+  "date": "2016/01/26",
+  "category": [
+        "in-game",
+        "client-mod",
+    "bug-Fix"
+    ],
+  "signature": "not yet implemented",
+	"priority": 100,
+    "enabled": true
+}
